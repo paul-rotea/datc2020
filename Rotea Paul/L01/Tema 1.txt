@@ -1,0 +1,2 @@
+Ca si aplicatii software-as-a-service, pana acum am folosit doar Google Drive si Google Sheets. Utilitatea acestor aplicatii este surprinzator de mare, usurand viata utilizatorilor datorita facilitatilor pe care le ofer si timpul de raspuns foarte bun.
+Google Drive ofera un spatiu de stocare virtual si usor de accesat, iar Google Sheets ne pune la dispozitie toate documentele in timp real, facand update constant si salvand modificarile realizate pe documente.
